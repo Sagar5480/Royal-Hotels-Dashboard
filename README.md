@@ -83,7 +83,6 @@ Use the insights to:
 
 Feel free to raise an issue or fork the project if you'd like to contribute improvements or suggestions. Pull requests are welcome!
 
----
+---![Screenshot 2025-04-23 125047](https://github.com/user-attachments/assets/8cd71950-b56f-43a8-b833-1e3475554be1)
 
-**Author**: [Your Name]  
-**License**: MIT
+
